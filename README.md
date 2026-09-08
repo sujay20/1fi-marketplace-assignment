@@ -15,7 +15,6 @@ The marketplace includes product search, category filters, product details, EMI 
 ### EMI Confirmation
 ![EMI Confirmation Screenshot](screenshots/EMI-Confirmation.png)
 
-> Put your screenshots inside a `screenshots` folder in the project and use the same file names as above.
 
 ## How to Run
 
