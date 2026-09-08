@@ -10,10 +10,10 @@ The marketplace includes product search, category filters, product details, EMI 
 ![Marketplace Screenshot](screenshots/Marketplace.png)
 
 ### Product Details
-![Product Details Screenshot](screenshots/Product Details.png)
+![Product Details Screenshot](screenshots/Product-Details.png)
 
 ### EMI Confirmation
-![EMI Confirmation Screenshot](screenshots/EMI Confirmation.png)
+![EMI Confirmation Screenshot](screenshots/EMI-Confirmation.png)
 
 > Put your screenshots inside a `screenshots` folder in the project and use the same file names as above.
 
