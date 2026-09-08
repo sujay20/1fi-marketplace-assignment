@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  background: #F6F6F8;
+}
+
+/* App fills the viewport directly — capped to a comfortable mobile
+   reading width on larger screens, but no bezel/frame chrome. */
+.app-shell {
+  width: 100%;
+  max-width: 480px;
+  height: 100dvh;
+  margin: 0 auto;
+  background: #F6F6F8;
+  position: relative;
+}
+
+.device-scroll {
+  height: 100%;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: none;
+}
+.device-scroll::-webkit-scrollbar {
+  display: none;
+}
