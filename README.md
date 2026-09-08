@@ -1,6 +1,6 @@
 # 1Fi Marketplace — SDE Intern Assignment
 
-This project adds a *1Fi Marketplace* section to the existing Shop page.
+This project adds a **1Fi Marketplace** section to the existing Shop page.
 
 The marketplace includes product search, category filters, product details, EMI plans, and an EMI confirmation flow.
 
