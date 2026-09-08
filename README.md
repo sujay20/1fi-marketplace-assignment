@@ -7,7 +7,7 @@ The marketplace includes product search, category filters, product details, EMI 
 ## Screenshot
 
 ### Marketplace
-![Marketplace Screenshot](screenshots/marketplace.png)
+![Marketplace Screenshot](screenshots/Marketplace.png)
 
 ### Product Details
 ![Product Details Screenshot](screenshots/product-details.png)
@@ -37,17 +37,6 @@ Open the local URL shown in the terminal, usually:
 http://localhost:5173
 ```
 
-To create a production build:
-
-```bash
-npm run build
-```
-
-To preview the production build:
-
-```bash
-npm run preview
-```
 
 ## What I Built
 
@@ -126,7 +115,6 @@ src/
 - JavaScript
 - React Router
 - Tailwind CSS
-- Vite
 
 ## Notes
 
@@ -136,10 +124,3 @@ The API file simulates network delay and errors. This makes it easier to test lo
 
 The app also works in a phone-like layout on desktop and becomes full-screen on smaller screens.
 
-## If I Had More Time
-
-- Add a real backend for cart and orders
-- Add favourites and recently viewed products
-- Use real product images
-- Add unit tests
-- Connect the marketplace to a real API
