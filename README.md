@@ -47,15 +47,12 @@ http://localhost:5173
 - Search products
 - Filter products by category
 - Responsive product grid
-- Loading state
-- Error state with retry
-- Empty state
+
 
 ### 3. Product Details
 - Product image
 - Rating
 - Price
-- Product variants such as storage, colour, or size
 - Product description
 - Product highlights
 - EMI plans
