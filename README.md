@@ -113,14 +113,10 @@ src/
 
 - React
 - JavaScript
-- React Router
 - Tailwind CSS
+- React Router
 
 ## Notes
-
-The project currently uses mock product data instead of a real backend.
-
-The API file simulates network delay and errors. This makes it easier to test loading and error states.
 
 The app also works in a phone-like layout on desktop and becomes full-screen on smaller screens.
 
